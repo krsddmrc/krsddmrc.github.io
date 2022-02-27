@@ -1,0 +1,40 @@
+body{
+    background-color:aquamarine;
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+header{
+    text-align: center;
+    width: 75%;
+    background-color: bisque;
+}
+main{
+    border:2px solid blueviolet;
+    border-radius: 30px;
+    width: 50%;
+    padding:30px; 
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav{  
+    background-color: rgb(164, 240, 240);    
+    width: 70%;
+    height: 100px;
+    text-align: center;
+}
+ul{
+list-style-type:none;   
+}
+a{  
+width: 100%;
+
+}
+footer{
+font-style: italic;
+background-color: aqua;
+width: 100%;
+text-align: center;
+}
+
+
